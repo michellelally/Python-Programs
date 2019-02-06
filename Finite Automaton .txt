@@ -1,0 +1,19 @@
+Workings for Finite Automation
+String: 110000
+q0: 110000
+1 q1: 10000
+11 q1 0000
+110 q2 000
+1100 q1 00 
+11000 q2 0
+110000 q1
+Result: ACCEPT
+Double line is an accept state 
+ 
+Set of states: the circles
+initial state: the first circle
+set of final states: acceptance circle (double line)
+alphabet: letters in the string
+
+from every character in the alphabet, it needs an arrow
+states x alphabet = no of arrows 
